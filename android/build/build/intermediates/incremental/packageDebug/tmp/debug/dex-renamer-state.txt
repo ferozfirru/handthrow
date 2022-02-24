@@ -1,0 +1,4 @@
+#Sat Jul 24 20:16:34 IST 2021
+base.0=C\:\\Users\\feroz\\Documents\\Godot_apps\\handthrow\\android\\build\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
